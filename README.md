@@ -21,5 +21,5 @@ In order to run this code in Visual Studio Code you must:
 ## Usage
 You can use this porject when you want to implement a minigame in an application or even play it yourself
 
-## Liscence
+## License
 Distributed under the MIT License. See LICENSE.txt for more information.
