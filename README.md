@@ -18,8 +18,8 @@ In order to run this code in Visual Studio Code you must:
 2. Once it is downloaded, run the installer (VSCodeUserSetup-{version}.exe). This will only take a minute.
 3. By default, VS Code is installed under C:\Users\{Username}\AppData\Local\Programs\Microsoft VS Code.
 
-##Usage
+## Usage
 You can use this porject when you want to implement a minigame in an application or even play it yourself
 
-##Liscence
+## Liscence
 Distributed under the MIT License. See LICENSE.txt for more information.
